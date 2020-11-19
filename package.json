@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "modern-normalize": "^1.0.0",
-    "normalize.css": "^8.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
